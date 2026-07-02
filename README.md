@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎯 Intelligent Candidate Discovery - RedRob INDIA.RUNS Challenge
 
 An AI-powered candidate ranking system that goes beyond keyword matching to understand who truly fits a role. Built for the RedRob INDIA.RUNS Data & AI Challenge.
@@ -126,3 +127,6 @@ The ranked output XLSX contains:
 ---
 
 Built for the RedRob INDIA.RUNS Data & AI Challenge 2026
+=======
+# TheDataAndAiChallenge
+>>>>>>> 7bd69c09a17f8f9ce461a9fd2f4d5c08db8892ca
