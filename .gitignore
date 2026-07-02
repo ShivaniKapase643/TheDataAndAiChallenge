@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output (keep directory but not generated files)
+output/*.xlsx
+output/*.csv
+!output/.gitkeep
+
+# Model cache
+models/
+*.npy
+
+# Temp
+*.tmp
+*.log

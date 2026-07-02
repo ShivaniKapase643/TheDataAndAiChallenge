@@ -1,0 +1,10 @@
+{
+    "title": "Senior Backend Engineer",
+    "required_skills": ["Python", "Django", "PostgreSQL", "REST APIs", "Docker", "Microservices"],
+    "preferred_skills": ["Kubernetes", "AWS", "Redis", "Celery", "GraphQL", "CI/CD"],
+    "experience": {"min": 5, "max": 8},
+    "location": "Bangalore",
+    "education": ["B.Tech in Computer Science", "M.Tech in Computer Science"],
+    "industry": "Technology",
+    "description": "We are looking for a Senior Backend Engineer to design, build, and maintain scalable microservices architecture. You will work primarily with Python/Django, manage PostgreSQL databases, deploy on AWS infrastructure with Docker and Kubernetes, design RESTful APIs, and mentor junior engineers. Experience with high-traffic systems and distributed computing is highly valued."
+}
